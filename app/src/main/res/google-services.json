@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "332626278471",
+    "firebase_url": "https://iot-bot-d9876.firebaseio.com",
+    "project_id": "iot-bot-d9876",
+    "storage_bucket": "iot-bot-d9876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332626278471:android:c41c48a0b69986c7",
+        "android_client_info": {
+          "package_name": "com.dinesh.kandili.botcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332626278471-34i2ov31ervd8r83jr68mp6gc8uu0o56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCqg3mengUwzFOpQKdtZDUolL_3gMCL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
